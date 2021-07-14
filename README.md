@@ -1,5 +1,7 @@
-# HelpLineWebApp
-A progressive helpline web application to people seek any kind of social, medical and financial help any way possible.
+# HelpLine WebApp
+A helpline in the form of web application to people seek any kind of social, medical and financial help any way possible. 
+
+It is a progressive project which will expand its limits eventually. You can always keep a track of its progress from this repository and also you can find its documentations listed into [Wiki](/Wiki) 
 
 ### The types of help you can have through this platform are:
 
